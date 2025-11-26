@@ -1,32 +1,73 @@
-<h1>Maicon Parra da Silva</h1>
-<p>Full Stack Developer</p>
+# Maicon Parra da Silva
 
-- 🔭 Estou trabalhando com React, Node.js, MySqL e MongoDB
-- 🌱 Estou estudando Micro Serviços com Kubernetes e Ranch
+![LinkedIn](https://img.shields.io/badge/LinkedIn-MaiconParra-blue?style=for-the-badge&logo=linkedin&link=https://br.linkedin.com/in/maicon-parra-da-silva-803a3848)
+![Location](https://img.shields.io/badge/Location-Sumaré--SP-green?style=for-the-badge)
+![Email](https://img.shields.io/badge/Email-maiconparradasilva%40gmail.com-orange?style=for-the-badge)
 
-<div>
-   <a href="https://github.com/maiconparra" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconparra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconparra&layout=compact&langs_count=7&theme=dracula"/>
-   </a>
-</div>
-<div style="display: inline_block">
-  Com que já tabalhei e trabalho:
-  <br>
-  <img align="center" alt="Maicon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maicon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Maicon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Maicon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maicon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maicon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Maicon-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+Sou estudante de Ciência da Computação na Estacio e apaixonado por tecnologia, inovação e aprendizado constante.
 
-###############################################################################
+## 🚀 Tecnologias e Ferramentas
 
-<div> 
-  <a href="https://instagram.com/maicon_parra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maiconparradasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maicon-parra-da-silva-803a3848/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+Atuo nos seguintes stacks & tecnologias, tanto em projetos públicos quanto privados:
+
+### Backend
+- **Node.js** (Express, Fastify)
+- **Python** (Flask, Django)
+- **Java** (Spring Boot)
+- **C#** (.NET Core)
+- **PHP** (Laravel)
+
+### Frontend
+- **React.js** & **React Native**
+- **Vue.js**
+- **Next.js**
+- **JavaScript** / **TypeScript**
+- **HTML5**, **CSS3**, **SASS**, **Bootstrap**
+
+### Mobile
+- **React Native**
+- **Flutter**
+- **Android (Java/Kotlin)**
+- **Progressive Web Apps**
+
+### DevOps / Infraestrutura
+- **Docker & Docker Compose**
+- **Kubernetes**
+- **AWS, Azure, Google Cloud**
+- **GitHub Actions**
+- **CI/CD pipelines**
+
+### Banco de Dados
+- **MongoDB**
+- **PostgreSQL**
+- **MySQL**
+- **SQLite**
+- **Redis**
+
+### Testes e Qualidade
+- **Jest**
+- **Mocha**
+- **Cypress**
+- **JUnit**
+- **RSpec**
+
+### Outras habilidades
+- **GraphQL**
+- **REST APIs**
+- **Swagger/OpenAPI**
+- **ORMs:** Sequelize, Prisma, Doctrine
+- **NoSQL e bancos relacionais**
+- **Integração de APIs**
+- **Metodologias Ágeis (Scrum, Kanban)**
+
+> *Obs.: Algumas dessas tecnologias também são aplicadas em projetos privados, sem divulgação pública dos nomes/repos.*
+
+## 🌱 Sobre mim
+
+- 💻 Busco soluções inovadoras com código limpo e eficiente.
+- 📚 Sempre aprendendo novas stacks e ferramentas.
+- 💬 Vamos conversar? [LinkedIn](https://br.linkedin.com/in/maicon-parra-da-silva-803a3848)
+
+## 📈 GitHub Stats
+
+![Maicon GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconparra&show_icons=true&theme=radical)
