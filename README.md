@@ -1,143 +1,111 @@
-<!-- CyberTech Style README by Maicon Parra -->
-<h1 align="center">⚡ Maicon Parra da Silva ⚡</h1>
+<!-- CYBERPUNK README START -->
+
+<div align="center" style="background: linear-gradient(135deg,#0f0c29 70%,#302b63 80%,#24243e 100%);padding:16px;border-radius:16px;border: 3px solid #00ffe7;box-shadow:0 0 40px #00ffe7 inset;">
+  <img src="https://media.giphy.com/media/1vXJZGNjJUzq6KSy4z/giphy.gif" width="140px" style="filter: drop-shadow(0 0 20px #00ffe7)" />
+  <h1 style="font-family:'Orbitron', monospace;color:#00ffe7;text-shadow:0 0 10px #00ffe7;">Maicon Parra da Silva 🚀</h1>
+  <p style="color: #e600ff; font-size: 1.12rem;">Fullstack Developer | Cyberpunk Enthusiast | Estudante Ciência da Computação</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,csharp,react,nextjs,vue,js,ts,php,mongodb,postgresql,mysql,flutter,docker,kubernetes,aws,azure,gcp,graphql,redis,github" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-MaiconParra-blue?style=for-the-badge&logo=linkedin&link=https://br.linkedin.com/in/maicon-parra-da-silva-803a3848" />
-  <img src="https://img.shields.io/badge/Location-Sumaré--SP-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Email-maiconparradasilva%40gmail.com-orange?style=for-the-badge" />
+  <a href="https://br.linkedin.com/in/maicon-parra-da-silva-803a3848" target="_blank" style="color:#00ffe7;">
+    <img src="https://img.shields.io/badge/LinkedIn-MaiconParra-00ffe7?style=flat-square&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Sumaré--SP-ff00cc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Email-maiconparradasilva%40gmail.com-ff00cc?style=flat-square" />
 </p>
+
+---
+
+<div align="center" style="padding:0 5vw;margin-bottom:2vh;">
+  <img src="image1" width="720px" style="border-radius:12px;box-shadow:0 0 40px #ff00cc;" alt="Dashboard MaiconParra"/>
+</div>
+
+---
+
+<h2 align="center" style="color:#00ffe7;text-shadow:0 0 10px #00ffe7;">🌈 &nbsp;Stacks & Tecnologias</h2>
+
+<div align="center">
+  <details>
+    <summary><span style="color:#ff00cc;">🛠️ Backend</span></summary>
+    <span style="color:#00ffe7;">
+      Node.js (Express, Fastify) • Python (Flask, Django) • Java (Spring Boot) • C# (.NET Core) • PHP (Laravel)
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#00ffe7;">💎 Frontend</span></summary>
+    <span style="color:#ff00cc;">
+      React.js, React Native • Vue.js • Next.js • JavaScript/TypeScript • HTML5/CSS3/SASS/Bootstrap
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#ff00cc;">📱 Mobile</span></summary>
+    <span style="color:#00ffe7;">
+      React Native • Flutter • Android (Java/Kotlin) • PWA
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#00ffe7;">⚡ Infra & DevOps</span></summary>
+    <span style="color:#ff00cc;">
+      Docker & Compose • Kubernetes • AWS, Azure, Google Cloud • GitHub Actions • CI/CD
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#ff00cc;">🗄️ Bancos de Dados</span></summary>
+    <span style="color:#00ffe7;">
+      MongoDB • PostgreSQL • MySQL • SQLite • Redis
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#00ffe7;">🧪 Testes & Qualidade</span></summary>
+    <span style="color:#ff00cc;">
+      Jest • Mocha • Cypress • JUnit • RSpec
+    </span>
+  </details>
+  <details>
+    <summary><span style="color:#ff00cc;">🔮 Outras Skills</span></summary>
+    <span style="color:#00ffe7;">
+      GraphQL • REST APIs • Swagger/OpenAPI • ORM: Sequelize, Prisma, Doctrine • APIs Integration • Scrum/Kanban
+    </span>
+  </details>
+  <sub style="color:#bbb;">*Também aplico stacks avançadas em projetos privados não publicados.*</sub>
+</div>
+
+---
+
+<h2 align="center" style="color:#00ffe7;">📊 &nbsp;Estatísticas Cyber</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maiconparra&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="border-radius:12px;box-shadow:0 0 30px #00ffe7;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconparra&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius:12px;box-shadow:0 0 30px #ff00cc;">
+</div>
+
+---
+
+<h2 align="center" style="color:#ff00cc;">🏅 &nbsp;Nota de Qualidade dos Projetos</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-ff00cc?style=for-the-badge&logo=codefactor" />
+  <p style="color:#00ffe7;font-size:1.05rem;">
+    Projetos mantidos com <strong>Clean Code, Testes, CI/CD</strong> e análise estática.<br />
+    Feedback obtido via automações, comunidade e revisão de pares.
+  </p>
+</div>
+
+---
+
+<h2 align="center" style="color:#00ffe7;">👾 Sobre Mim</h2>
+<ul style="color:#eee;font-size:1.12rem;">
+  <li>💻 Solutions seeker — sempre programando com foco em código limpo e Cybertech.</li>
+  <li>🧠 Aprimorando stacks inovadoras e explorando novas referências visuais.</li>
+  <li>🤖 Let's connect: <a href="https://br.linkedin.com/in/maicon-parra-da-silva-803a3848" style="color:#ff00cc;">LinkedIn</a></li>
+</ul>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPG7F3rPuw0kP9u/giphy.gif" width="120px" alt="cyber gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG40ZzVubGQybGVtOGZpeDEydjJpb3Y2bTEzbWdlOXlyMnNlbDJybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6zzO/giphy.gif" width="120px" style="margin-top:24px;">
+  <br>
+  <span style="color:#00ffe7;font-family:'Orbitron',monospace;">#KeepCoding #Cyberpunk #NextGen</span>
 </div>
 
-<h2 align="center">👾 Quem sou eu?</h2>
-
-<p align="center">
-Sou <b>estudante de Ciência da Computação na Estácio</b>, apaixonado por <b>tecnologia</b>, <b>inovação</b> e <b>aprendizado contínuo</b>.<br>
-Sempre em busca de novos desafios e evolução!
-</p>
-
----
-
-<h2 align="center">🧑🏻‍💻 Stacks & Tecnologias</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,csharp,nodejs,react,vue,nextjs,flask,django,spring,laravel,docker,kubernetes,aws,azure,gcp,mongodb,postgresql,mysql,sqlite,redis,graphql" /><br>
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-2465DD?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-<details>
-<summary><b>💾 Backend</b></summary>
-<ul>
-  <li>Node.js (Express, Fastify)</li>
-  <li>Python (Flask, Django)</li>
-  <li>Java (Spring Boot)</li>
-  <li>C# (.NET Core)</li>
-  <li>PHP (Laravel)</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<ul>
-  <li>React.js & React Native</li>
-  <li>Vue.js</li>
-  <li>Next.js</li>
-  <li>JavaScript / TypeScript</li>
-  <li>HTML5, CSS3, SASS, Bootstrap</li>
-</ul>
-</details>
-
-<details>
-<summary><b>📱 Mobile</b></summary>
-<ul>
-  <li>React Native</li>
-  <li>Flutter</li>
-  <li>Android (Java/Kotlin)</li>
-  <li>Progressive Web Apps</li>
-</ul>
-</details>
-
-<details>
-<summary><b>⚙️ DevOps / Infra</b></summary>
-<ul>
-  <li>Docker & Docker Compose</li>
-  <li>Kubernetes</li>
-  <li>AWS, Azure, Google Cloud</li>
-  <li>GitHub Actions, CI/CD pipelines</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🗄️ Bancos de Dados</b></summary>
-<ul>
-  <li>MongoDB, PostgreSQL, MySQL, SQLite, Redis</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🧪 Testes & Qualidade</b></summary>
-<ul>
-  <li>Jest, Mocha, Cypress, JUnit, RSpec</li>
-</ul>
-</details>
-
-<details>
-<summary><b>📡 Outras habilidades</b></summary>
-<ul>
-  <li>GraphQL, REST APIs, Swagger/OpenAPI</li>
-  <li>ORMs: Sequelize, Prisma, Doctrine</li>
-  <li>Integração de APIs</li>
-  <li>Metodologias Ágeis (Scrum, Kanban)</li>
-</ul>
-</details>
-
-> <sub>Algumas dessas tecnologias também são utilizadas em projetos privados, sem divulgação pública dos nomes/repos.</sub>
-
----
-
-<h2 align="center">📊 Estatísticas & Gráficos</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiconparra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconparra&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiconparra&theme=dark" alt="Profile Cards"/>
-</p>
-
----
-
-<h2 align="center">🏅 Nota da Qualidade dos Projetos</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge&logo=codefactor" />
-</p>
-<p align="center">
-  <b>Avaliação Comunidade:</b> Diversos projetos públicos com práticas modernas, código limpo, testes e automações de qualidade.
-</p>
-<p align="center">
-  <b>Nota baseada em feedback, automações e análise de código estático.</b>
-</p>
-
----
-
-<h2 align="center">🌱 Sobre mim</h2>
-
-<ul>
-  <li>💻 Busco soluções inovadoras com <b>código limpo e eficiente</b>.</li>
-  <li>📚 Sempre aprendendo novas stacks e ferramentas.</li>
-  <li>🤝 Vamos conversar? <a href="https://br.linkedin.com/in/maicon-parra-da-silva-803a3848" target="_blank">LinkedIn</a></li>
-</ul>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dTJd5ygpxkzWo/giphy.gif" width="100px" alt="terminal cyber gif"/>
-  <br>
-  <i style="color:#22d3ee;">"#KeepCoding #CyberTech #NextGen"</i>
-</p>
+<!-- CYBERPUNK README END -->
